@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666794512038",
+    "project_id": "chaipecharcha-d4467",
+    "storage_bucket": "chaipecharcha-d4467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666794512038:android:1c099dea1a5724c2736e67",
+        "android_client_info": {
+          "package_name": "com.chatapp.chai_pe_charcha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666794512038-phv46dhmc3jt1ufg47ca2uhqe6m6ehc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQEiX3EX35sZSkdDKy8PXLqmz1cgV6iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666794512038-phv46dhmc3jt1ufg47ca2uhqe6m6ehc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
